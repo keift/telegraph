@@ -3,7 +3,7 @@
 - Yetkili kişilerce kullanıcılara uygulanabilecek cezalarda, yetkili kişi isterse öncesinde uyarabilir ve/veya direkt olarak cezai işlemi uygulayabilir.
 - Kişiler ilgili kurallar listesinde bir kuralın kaldırılması, değiştirilmesi ve/veya hatalı uygulanması durumunda mevcut karara itiraz edebilir.
 - Bir olayın gerçekleşme tarihinden itibaren mevcut kural listesi geçerli olup, bir kuralın eklenmesi geçmiş olaylara etki etmez.
-- Kurallar sadece kategorisindeki alanlarda geçerlidir. Aynı şekilde yanlış bir işlemde kişiler bu karara itiraz edebilir.
+- Kurallar sadece kategorisindeki alanlarda geçerlidir. Yanlış bir işlemde kişiler bu karara itiraz edebilir.
  
 ## Gruplarda geçerli kurallar
 
