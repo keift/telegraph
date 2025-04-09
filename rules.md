@@ -1,10 +1,11 @@
 ## Cezai işlemlerin uygulanması durumunda karşılaşabileceğiniz durumlar
 
-- Yetkili kişilerce kullanıcılara uygulanabilecek cezalarda, yetkili kişi isterse öncesinde uyarabilir ve/veya direkt olarak cezai işlemi uygulayabilir.
+- Yetkili kişilerce kullanıcılara uygulanabilecek cezalarda, yetkili kişi isterse öncesinde uyarabilir ve/veya direkt olarak işlemi uygulayabilir.
 - Kişiler ilgili kurallar listesinde bir kuralın kaldırılması, değiştirilmesi ve/veya hatalı uygulanması durumunda mevcut karara itiraz edebilir.
 - Bir olayın gerçekleşme tarihinden itibaren mevcut kural listesi geçerli olup, bir kuralın eklenmesi geçmiş olaylara etki etmez.
 - Kurallar sadece kategorisindeki alanlarda geçerlidir. Yanlış bir işlemde kişiler bu karara itiraz edebilir.
- 
+- Kişilerin bu kuralların istenildiği gibi yetkili kişiler tarafından değiştirilebileceğini bildiği, ilgili kişilerin bu kurallar karşısında her zaman sorumlu olduğu kabul edilir.
+
 ## Gruplarda geçerli olacak kurallar
 
 - Karşı tarafa alaycı ve/veya küçümser hitaplar içeren metin, görsel ve/veya video iletmek. [1 HAFTA ZAMANAŞIMI]
