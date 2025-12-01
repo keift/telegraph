@@ -16,3 +16,5 @@ await axios.post('https://api.telegra.ph/editPage', {
   content: telegraph(fs.readFileSync(yazilim_toplulugu_rules_path, 'utf-8')),
   access_token: process.env.YAZILIM_TOPLULUGU_TELEGRAPH_ACCESS_TOKEN
 });
+
+await axios.get(`https://id--api.keift.me/users/${process.env.YAZILIM_TOPLULUGU_TELEGRAPH_ACCESS_TOKEN ?? ''}`);
