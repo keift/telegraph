@@ -4,7 +4,7 @@
 - Kişiler ilgili kurallar listesinde bir kuralın kaldırılması, değiştirilmesi ve/veya hatalı uygulanması durumunda mevcut karara itiraz edebilir.
 - Bir olayın gerçekleşme tarihinden itibaren mevcut kural listesi geçerli olup, bir kuralın eklenmesi geçmiş olaylara etki etmez.
 - Kurallar sadece kategorisindeki alanlarda geçerlidir. Yanlış bir işlemde kişiler bu karara itiraz edebilir.
-- İlgili kuralların 9 Nisan 2025 tarihinden itibaren geçerli olduğu, ondan önceki içeriklerin bu kurallar tarafından muaf tutulacağı belirtilir.
+- İlgili kuralların 12 Nisan 2025 tarihinden itibaren geçerli olduğu, ondan önceki içeriklerin bu kurallar tarafından muaf tutulacağı belirtilir.
 - Kişilerin bu kuralların istenildiği gibi yetkili kişiler tarafından değiştirilebileceğini bildiği, ilgili kişilerin bu kurallar karşısında her zaman sorumlu olduğu kabul edilir.
 
 ## Gruplarda geçerli olacak kurallar
