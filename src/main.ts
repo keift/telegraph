@@ -8,6 +8,13 @@ import path from 'path';
  */
 const yazilim_toplulugu_rules_path = path.join('./', 'mds', 'yazilim-toplulugu-rules.md');
 
+await axios.post('https://api.telegra.ph/editAccountInfo', {
+  short_name: 'Yazılım Topluluğu',
+  author_name: 'Yazılım Topluluğu',
+  author_url: 'https://t.me/yazilimtoplulugu',
+  access_token: process.env.YAZILIM_TOPLULUGU_TELEGRAPH_ACCESS_TOKEN
+});
+
 await axios.post('https://api.telegra.ph/editPage', {
   path: 'rules-12-01-151',
   title: 'Yazılım Topluluğu Kuralları',
