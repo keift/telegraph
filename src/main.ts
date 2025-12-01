@@ -4,7 +4,7 @@ import fs from 'fs';
 import path from 'path';
 
 /**
- * Yazılım Topluluğu Kuralları
+ * Yazılım Topluluğu
  */
 const yazilim_toplulugu_rules_path = path.join('./', 'mds', 'yazilim-toplulugu-rules.md');
 
