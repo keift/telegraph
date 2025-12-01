@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "bun run ./src/main.ts",
+    "start:dev": "bun run ./src/main.ts",
+    "tests": "bun run lint && bun test",
+    "prettier": "prettier --write ./",
+    "lint": "eslint ./"
+  },
+  "dependencies": {
+    "axios": "^1.13.2",
+    "neatlint": "^1.1.26",
+    "prettier": "^3.7.3",
+    "telegraph.md": "^0.0.1"
+  }
+}
