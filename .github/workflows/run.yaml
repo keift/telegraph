@@ -23,4 +23,6 @@ jobs:
         run: bun install
 
       - name: Run
+        env:
+          YAZILIM_TOPLULUGU_TELEGRAPH_ACCESS_TOKEN: ${{ secrets.YAZILIM_TOPLULUGU_TELEGRAPH_ACCESS_TOKEN }}
         run: bun run start
