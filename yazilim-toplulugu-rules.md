@@ -27,13 +27,11 @@
 
 - Yasadışı kumar, dolandırıcılık, hile, ele geçirilmemesi gereken veriler(i) (v.s.) önermek, istemek, iletmek, girişiminde bulunmak ve/veya pazarlamaya çalışmak. `[SÜRESİZ YASAKLAMA]`
 
-
 ## İş İlanları grubunda geçerli olacak kurallar
 
 - Yazılım ile ilgili olmayan, alakasız ve/veya detaylandırılmamış ilanlar yayımlamak. `[1 HAFTA ZAMANAŞIMI]`
 
 - Şüpheli ve/veya yanıltıcı ilanlar yayımlamak. `[SÜRESİZ YASAKLAMA]`
-
 
 ## Direkt mesajlarda geçerli olacak kurallar
 
