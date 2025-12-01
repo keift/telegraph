@@ -15,6 +15,7 @@
 - İdeoloji, siyaset, din, milletler dışında ırk, ülkeler dışında bölge, ülkeler dışında bayrak, terör örgütü, çete, silah ve/veya zararlı madde içeren metin, görsel, video ve/veya ses iletmek. `[1 HAFTA ZAMANAŞIMI]`
 - Türkçe dili dışında sözcükler içeren metin, görsel, video ve/veya ses iletmek. `[1 HAFTA ZAMANAŞIMI]`
 - Eğitim süresince görevlendirildiğiniz proje, ödev (v.s.) gibi ihtiyaçlarınızı bir başkasına yaptırmaya çalışmak. `[1 HAFTA ZAMANAŞIMI]`
+- Arka arkaya mesajlara emoji tepkileri bırakmak. `[SÜRESİZ YASAKLAMA]`
 - Gruplar ve/veya kanalların reklamını yapmak ve/veya üye çekmeye çalışmak. `[SÜRESİZ YASAKLAMA]`
 - Kişisel bilgileri edinmeye çalışmak, kullanmak ve/veya yaymaya çalışmak. `[SÜRESİZ YASAKLAMA]`
 - Tehdit, şantaj ve/veya taciz girişiminde bulunmak. `[SÜRESİZ YASAKLAMA]`
