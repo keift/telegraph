@@ -1,3 +1,3 @@
 declare module 'telegraph.md' {
-  export default function (markdown: string): unknown;
+  export default function (markdown: string): unknown[];
 }
