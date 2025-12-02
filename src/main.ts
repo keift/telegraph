@@ -1,5 +1,5 @@
 import axios from 'axios';
-import telegraph from 'telegraph.md';
+import telegraphmd from 'telegraph.md';
 import fs from 'fs';
 import path from 'path';
 
@@ -20,6 +20,6 @@ await axios.post('https://api.telegra.ph/editPage', {
   title: 'Yazılım Topluluğu Kuralları',
   author_name: 'Yazılım Topluluğu',
   author_url: 'https://t.me/yazilimtoplulugu',
-  content: telegraph(fs.readFileSync(yazilim_toplulugu_rules_path, 'utf-8')),
+  content: telegraphmd(fs.readFileSync(yazilim_toplulugu_rules_path, 'utf-8')),
   access_token: process.env.YAZILIM_TOPLULUGU_TELEGRAPH_ACCESS_TOKEN
 });
