@@ -9,7 +9,7 @@
   "dependencies": {
     "axios": "^1.13.2",
     "neatlint": "^1.1.26",
-    "prettier": "^3.7.3",
+    "prettier": "^3.7.4",
     "telegraph.md": "^0.0.1"
   }
 }
