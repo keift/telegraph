@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "axios": "^1.13.2",
-    "neatlint": "^1.1.27",
+    "neatlint": "^1.2.0",
     "prettier": "^3.7.4",
     "telegraph.md": "^0.0.1"
   }
