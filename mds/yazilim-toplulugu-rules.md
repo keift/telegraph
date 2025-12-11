@@ -30,7 +30,7 @@
 ## Direkt mesajlarda geçerli olacak kurallar
 
 - Tartışma başlangıcı gruplardan referans edilebilen ve/veya daha önce tanışıklı sohbet geçmişi bulunmayan mesajlarda hakaret, küfür ve/veya argo olarak kullanılan, alaycı ve/veya küçümser hitaplar içeren ve/veya dini, siyaset ve/veya ırkçı söylemlerle ayrıştırmaya yönelik metin, görsel, video ve/veya ses iletmek. `[SÜRESİZ YASAKLAMA]`
-- Gruplar ve/veya kanalları reklamını yapmak ve/veya üye çekmeye çalışmak. `[SÜRESİZ YASAKLAMA]`
+- Gruplar ve/veya kanalların reklamını yapmak ve/veya üye çekmeye çalışmak. `[SÜRESİZ YASAKLAMA]`
 - Kişisel bilgileri edinmeye çalışmak, kullanmak ve/veya yaymaya çalışmak. `[SÜRESİZ YASAKLAMA]`
 - Tehdit, şantaj ve/veya taciz girişiminde bulunmak. `[SÜRESİZ YASAKLAMA]`
 - Yasadışı kumar, dolandırıcılık, hile, ele geçirilmemesi gereken veriler(i) (v.s.) önermek, istemek, iletmek, girişiminde bulunmak ve/veya pazarlamaya çalışmak. `[SÜRESİZ YASAKLAMA]`
