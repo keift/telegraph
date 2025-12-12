@@ -1,5 +1,3 @@
-Bu içerik hakkında değişiklik talep edebilirsiniz. [Buraya tıkla](https://github.com/keift/telegraph/blob/main/mds/yazilim-toplulugu-rules.md)
-
 ## Cezai işlemlerin uygulanması durumunda karşılaşabileceğiniz durumlar
 
 - Yetkili kişilerce kullanıcılara uygulanabilecek cezalarda, yetkili kişi isterse öncesinde uyarabilir ve/veya direkt olarak işlemi uygulayabilir.
