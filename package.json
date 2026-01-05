@@ -9,7 +9,7 @@
   "dependencies": {
     "@types/telegraph.md": "^0.0.0",
     "axios": "^1.13.2",
-    "neatlint": "^1.2.6",
+    "neatlint": "^1.2.8",
     "prettier": "^3.7.4",
     "telegraph.md": "^0.0.1"
   }
