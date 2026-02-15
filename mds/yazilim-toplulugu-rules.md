@@ -1,7 +1,3 @@
-```typescript
-const a = 1;
-```
-
 ## Cezai işlemlerin uygulanması durumunda karşılaşabileceğiniz durumlar
 
 - Yetkili kişilerce kullanıcılara uygulanabilecek cezalarda, yetkili kişi isterse öncesinde uyarabilir ve/veya direkt olarak işlemi uygulayabilir.
