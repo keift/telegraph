@@ -6,7 +6,7 @@ import path from 'path';
 /**
  * Yazılım Topluluğu
  */
-const yazilim_toplulugu_rules_path = path.join('./', 'mds', 'yazilim-toplulugu-rules.md');
+const yazilim_toplulugu_rules_path = path.join('./', 'mds', 'yazilim_toplulugu_rules.md');
 
 await axios.post('https://api.telegra.ph/editAccountInfo', {
   short_name: 'Yazılım Topluluğu',
