@@ -9,13 +9,13 @@
 
 ## Gruplarda geçerli olacak kurallar
 
-- Karşı tarafa alaycı ve/veya küçümser hitaplar içeren metin, görsel, video ve/veya ses iletmek. `[1 HAFTA ZAMANAŞIMI]`
-- Hakaret, küfür ve/veya argo olarak kullanılan metin, görsel, video ve/veya ses iletmek. `[1 HAFTA ZAMANAŞIMI]`
-- Dini, siyaset ve/veya ırkçı söylemlerle ayrıştırmaya yönelik metin, görsel, video ve/veya ses iletmek. `[1 HAFTA ZAMANAŞIMI]`
-- İdeoloji, siyaset, din, milletler dışında ırk, ülkeler dışında bölge, ülkeler dışında bayrak, terör örgütü, çete, silah ve/veya zararlı madde içeren metin, görsel, video ve/veya ses iletmek. `[1 HAFTA ZAMANAŞIMI]`
-- Türkçe dili dışında sözcükler içeren metin, görsel, video ve/veya ses iletmek. `[1 HAFTA ZAMANAŞIMI]`
-- Eğitim süresince görevlendirildiğiniz proje, ödev (v.s.) gibi ihtiyaçlarınızı bir başkasına yaptırmaya çalışmak. `[1 HAFTA ZAMANAŞIMI]`
-- Konularla alakasız metin, görsel, video ve/veya ses iletmek. `[1 HAFTA ZAMANAŞIMI]`
+- Karşı tarafa alaycı ve/veya küçümser hitaplar içeren metin, görsel, video ve/veya ses iletmek. `[1 HAFTA SUSTURMA]`
+- Hakaret, küfür ve/veya argo olarak kullanılan metin, görsel, video ve/veya ses iletmek. `[1 HAFTA SUSTURMA]`
+- Dini, siyaset ve/veya ırkçı söylemlerle ayrıştırmaya yönelik metin, görsel, video ve/veya ses iletmek. `[1 HAFTA SUSTURMA]`
+- İdeoloji, siyaset, din, milletler dışında ırk, ülkeler dışında bölge, ülkeler dışında bayrak, terör örgütü, çete, silah ve/veya zararlı madde içeren metin, görsel, video ve/veya ses iletmek. `[1 HAFTA SUSTURMA]`
+- Türkçe dili dışında sözcükler içeren metin, görsel, video ve/veya ses iletmek. `[1 HAFTA SUSTURMA]`
+- Eğitim süresince görevlendirildiğiniz proje, ödev (v.s.) gibi ihtiyaçlarınızı bir başkasına yaptırmaya çalışmak. `[1 HAFTA SUSTURMA]`
+- Konularla alakasız metin, görsel, video ve/veya ses iletmek. `[1 HAFTA SUSTURMA]`
 - Arka arkaya mesajlara emoji tepkileri bırakmak. `[SÜRESİZ YASAKLAMA]`
 - Gruplar ve/veya kanalların reklamını yapmak ve/veya üye çekmeye çalışmak. `[SÜRESİZ YASAKLAMA]`
 - Kişisel bilgileri edinmeye çalışmak, kullanmak ve/veya yaymaya çalışmak. `[SÜRESİZ YASAKLAMA]`
@@ -24,7 +24,7 @@
 
 ## İş İlanları grubunda geçerli olacak kurallar
 
-- Yazılım ile ilgili olmayan, alakasız ve/veya detaylandırılmamış ilanlar yayımlamak. `[1 HAFTA ZAMANAŞIMI]`
+- Yazılım ile ilgili olmayan, alakasız ve/veya detaylandırılmamış ilanlar yayımlamak. `[1 HAFTA SUSTURMA]`
 - Şüpheli ve/veya yanıltıcı ilanlar yayımlamak. `[SÜRESİZ YASAKLAMA]`
 
 ## Direkt mesajlarda geçerli olacak kurallar
