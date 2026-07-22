@@ -1,15 +1,10 @@
 name: Run
 
-# on:
-#   workflow_run:
-#     workflows: ['Tests']
-#     types:
-#       - completed
-
 on:
-  push:
-    branches:
-      - main
+  workflow_run:
+    workflows: ['Tests']
+    types:
+      - completed
 
 jobs:
   job:
