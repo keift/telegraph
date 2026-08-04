@@ -3,6 +3,7 @@
     "start": "bun run ./src/main.ts",
     "start:dev": "bun run ./src/main.ts",
     "tests": "bun run lint && bun test",
+    "retouch": "bun run prettier",
     "prettier": "prettier --write ./",
     "lint": "eslint ./"
   },
